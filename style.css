@@ -1,0 +1,20 @@
+body {
+    background-color: #1e1e1e;
+    color: #0044ff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, h3 {
+    color: #0044ff;
+}
+
+.stButton>button {
+    background-color: #0044ff;
+    color: black;
+}
+
+.stTextInput>div>input {
+    background-color: #222;
+    color: #0044ff;
+    border: 1px solid #0044ff;
+}
